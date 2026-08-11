@@ -12,6 +12,8 @@ class DefaultFile extends StatelessWidget {
 
         Text("Hello Second line"),
         Text("Hello first line"),
+
+        Text("Line after adding default file"),
       ],
     );
   }
