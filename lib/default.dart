@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class DafultFile extends StatelessWidget {
-  const DafultFile({super.key});
+class DefaultFile extends StatelessWidget {
+  const DefaultFile({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -10,6 +10,8 @@ class DafultFile extends StatelessWidget {
       children: [
 
 
+        Text("Hello Second line"),
+        Text("Hello first line"),
       ],
     );
   }

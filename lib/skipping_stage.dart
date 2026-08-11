@@ -13,6 +13,12 @@ class SkippingStage extends StatelessWidget {
         Text("Hello Skipping Stage"),
         Text("Hello Second line"),
         Text("Hello third line"),
+
+        Text("Line after adding default file"),
+
+
+
+
       ],
     );
   }
