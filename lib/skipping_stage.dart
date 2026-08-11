@@ -10,7 +10,9 @@ class SkippingStage extends StatelessWidget {
       
       children: [
         
-        Text("Hello Skipping Stage")
+        Text("Hello Skipping Stage"),
+        Text("Hello Second line"),
+        Text("Hello third line"),
       ],
     );
   }
