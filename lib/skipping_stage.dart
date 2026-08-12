@@ -24,10 +24,6 @@ class SkippingStage extends StatelessWidget {
         Text("5"),
 
 
-        Text(git revert ),
-
-
-
 
 
       ],
