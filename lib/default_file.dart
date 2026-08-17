@@ -13,6 +13,8 @@ class DefaultFile extends StatelessWidget {
         Text("Hello Second line"),
         Text("Hello first line"),
 
+
+        Text("1 rebase"),
         Text("Line after adding default file"),
         Text("Line after adding default file"),
         Text("Line after adding default file"),
