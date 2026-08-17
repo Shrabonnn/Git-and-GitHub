@@ -17,7 +17,8 @@ class DefaultFile extends StatelessWidget {
         Text("Line after adding default file"),
         Text("Line after adding default file"),
 
-        Text("Button Added")
+        Text("Button Added"),
+        Text("Minus Button Added"),
       ],
     );
   }
