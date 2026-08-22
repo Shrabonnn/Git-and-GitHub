@@ -24,9 +24,9 @@ class DefaultFile extends StatelessWidget {
 
         Text("Minus Button Added"),
 
-        Text("DropDown Added"),
-        Text("Rebase Check"),
-        Text("Rebase 2"),
+        Text("DropDown Added")
+        Text("Rebase Check")
+        Text("Rebase 2")
         Text("Rebase 3")
 
       ],
